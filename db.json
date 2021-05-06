@@ -6,8 +6,6 @@
     "edad":  1,
     "tamaño": "xs",
     "energia": 4,
-    "foto": 
-  	"file:///fotos/pexels-magda-ehlers-726201.jpg",
     "vacunada": false,
     "esterilizacion": false
     
@@ -20,8 +18,6 @@
     "edad":  4,
     "tamaño": "xg",
     "energia": 4,
-    "foto": 
-      "file:///fotos/pexels-alexandru-rotariu-733416.jpg",
     "vacunada": true,
     "esterilizacion": true
     
@@ -34,8 +30,6 @@
     "edad":  2,
     "tamaño": "m",
     "energia": 2,
-    "foto": 
-      "file:///fotos/pexels-binyamin-mellish-169524.jpg",
     "vacunada": true,
     "esterilizacion": true
     
