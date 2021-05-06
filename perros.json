@@ -1,0 +1,38 @@
+perros : {
+    "nombre": "Lolita",
+    "genero": "femenino",
+    "edad":  1,
+    "tamaño": "xs",
+    "energia": 4,
+    "foto": 
+  	"file:///fotos/pexels-magda-ehlers-726201.jpg",
+    "vacunada": false,
+    "esterilizacion": false
+    
+},
+
+{
+    "nombre": "Neron",
+    "genero": "masculino",
+    "edad":  4,
+    "tamaño": "xg",
+    "energia": 4,
+    "foto": 
+      "file:///fotos/pexels-alexandru-rotariu-733416.jpg",
+    "vacunada": true,
+    "esterilizacion": true
+    
+},
+
+{
+    "nombre": "Princesa",
+    "genero": "femenino",
+    "edad":  2,
+    "tamaño": "m",
+    "energia": 2,
+    "foto": 
+      "file:///fotos/pexels-binyamin-mellish-169524.jpg",
+    "vacunada": true,
+    "esterilizacion": true
+    
+},
