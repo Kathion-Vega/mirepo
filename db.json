@@ -1,5 +1,6 @@
 [
 {
+    "id":  1,
     "nombre": "Lolita",
     "genero": "femenino",
     "edad":  1,
@@ -13,6 +14,7 @@
 },
 
 {
+     "id":  2,
     "nombre": "Neron",
     "genero": "masculino",
     "edad":  4,
@@ -26,6 +28,7 @@
 },
 
 {
+     "id":  3,
     "nombre": "Princesa",
     "genero": "femenino",
     "edad":  2,
