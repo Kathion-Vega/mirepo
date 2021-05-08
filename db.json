@@ -1,6 +1,6 @@
-{
+[
     perros {
- perro1 [733331
+ perro1 [
     "id":  1,
     "nombre": "Lolita",
     "genero": "femenino",
@@ -36,4 +36,4 @@ perro3[
     
 ]
 }
-}
+]
