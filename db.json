@@ -1,38 +1,9 @@
 {
-    "perros" : {
- "perro1" :  [
-    "id":  1,
-    "nombre": "Lolita",
-    "genero": "femenino",
-    "edad":  1,
-    "tamaño": "xs",
-    "energia": 4,
-    "vacunada": false,
-    "esterilizacion": false
+    "perros":{
+        "perro1":["id":1,"nombre":"Lolita","genero":"femenino","edad":1,"tamaño":"xs","energia":4,"vacunada":false,"esterilizacion":false],
+        "perro2":["id":2,"nombre":"Neron","genero":"masculino","edad":4,"tamaño":"xg","energia":4,"vacunada":true,"esterilizacion":true],
+        "perro3":["id":3,"nombre":"Princesa","genero":"femenino","edad":2,"tamaño":"m","energia":2,"vacunada":true,"esterilizacion":true]
+    }
     
-],
-
-"perro2" : [
-     "id":  2,
-    "nombre": "Neron",
-    "genero": "masculino",
-    "edad":  4,
-    "tamaño": "xg",
-    "energia": 4,
-    "vacunada": true,
-    "esterilizacion": true
-    
-],
-
-"perro3": [
-     "id":  3,
-    "nombre": "Princesa",
-    "genero": "femenino",
-    "edad":  2,
-    "tamaño": "m",
-    "energia": 2,
-    "vacunada": true,
-    "esterilizacion": true
-    
-]
 }
+
