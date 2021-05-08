@@ -1,6 +1,6 @@
 [
     perros {
- perro1 [
+ perro1 :  [
     "id":  1,
     "nombre": "Lolita",
     "genero": "femenino",
@@ -12,7 +12,7 @@
     
 ],
 
-perro2 [
+perro2 : [
      "id":  2,
     "nombre": "Neron",
     "genero": "masculino",
@@ -24,7 +24,7 @@ perro2 [
     
 ],
 
-perro3[
+perro3: [
      "id":  3,
     "nombre": "Princesa",
     "genero": "femenino",
