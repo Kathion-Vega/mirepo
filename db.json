@@ -1,5 +1,6 @@
-[
 {
+    perros {
+ perro1 [733331
     "id":  1,
     "nombre": "Lolita",
     "genero": "femenino",
@@ -9,9 +10,9 @@
     "vacunada": false,
     "esterilizacion": false
     
-},
+],
 
-{
+perro2 [
      "id":  2,
     "nombre": "Neron",
     "genero": "masculino",
@@ -21,9 +22,9 @@
     "vacunada": true,
     "esterilizacion": true
     
-},
+],
 
-{
+perro3[
      "id":  3,
     "nombre": "Princesa",
     "genero": "femenino",
@@ -33,5 +34,6 @@
     "vacunada": true,
     "esterilizacion": true
     
+]
 }
-    ]
+}
