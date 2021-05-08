@@ -1,5 +1,5 @@
 {
-    "perros" {
+    "perros" : {
  "perro1" :  [
     "id":  1,
     "nombre": "Lolita",
